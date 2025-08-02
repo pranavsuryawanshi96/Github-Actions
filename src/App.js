@@ -12,7 +12,7 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://youtube.com/@DevOpsPro"
+          href="http://carrot-app-lb-988134161.us-east-1.elb.amazonaws.com/"
           target="_blank"
           rel="noopener noreferrer"
         >
